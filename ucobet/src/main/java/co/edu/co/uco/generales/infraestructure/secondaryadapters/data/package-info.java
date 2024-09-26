@@ -1,0 +1,1 @@
+package co.edu.co.uco.generales.infraestructure.secondaryadapters.data;
