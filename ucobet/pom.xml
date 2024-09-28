@@ -63,7 +63,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
             	<configuration>
-                	<mainClass>co.edu.co.uco.generales.UcobetApplication</mainClass>
+                	<mainClass>src.main.java.co.edu.co.uco.generales.UcobetApplication</mainClass>
             	</configuration>
 			</plugin>
 		</plugins>
